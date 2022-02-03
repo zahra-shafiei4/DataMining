@@ -1,4 +1,3 @@
-from matplotlib.pyplot import clf
 import numpy as np
 from sklearn.naive_bayes import GaussianNB
 
